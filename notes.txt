@@ -1,0 +1,3 @@
+bucket                                     endpoint_url
+    learnjs.ianroberttaylor.com             http://learnjs.ianroberttaylor.com.s3-website-us-east-1.amazonaws.com
+    sit-learnjs.ianroberttaylor.com         http://sit-learnjs.ianroberttaylor.com.s3-website-us-east-1.amazonaws.com
